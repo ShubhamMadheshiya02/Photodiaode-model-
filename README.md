@@ -48,13 +48,9 @@ The repository includes:
 - **DC Simulation Plot:** Demonstrates the linear response of the amplifier as the photodiode current increases.
 - **AC Simulation Plot:** Illustrates the frequency response, highlighting the amplifier’s bandwidth and gain roll-off.
 
-*Detailed simulation screenshots and additional notes are provided within the repository.*
-
 ## Applications
 This photodiode amplifier circuit is applicable in:
 - **Optical Sensors:** For devices like light meters and camera exposure controls.
 - **Medical Instrumentation:** In systems such as pulse oximeters requiring precise light detection.
 - **Environmental Monitoring:** For weather stations and agricultural lighting systems.
 - **Industrial Automation:** In applications for object detection and counting.
-
-## Project Structure
